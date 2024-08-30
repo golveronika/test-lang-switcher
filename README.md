@@ -1,5 +1,12 @@
-## ⚗️ Features
 
+## Description
+
+Form with language changing
+
+[Demo](https://golveronika.github.io/)
+
+## ⚗️ Features
+- [i18next](https://www.i18next.com/)
 - [Webpack](https://webpack.js.org)
 - [Nunjucks](https://mozilla.github.io/nunjucks) (supports multiple pages)
 - [Babel](https://babeljs.io)
