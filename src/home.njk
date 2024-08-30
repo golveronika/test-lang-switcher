@@ -1,0 +1,35 @@
+{% extends '_layout.njk' %}
+
+{% block main %}
+
+  <div class="container">
+
+    <div class="ufive-feedback">
+      <section id="feedback">
+        <h1 data-t="title"></h1>
+        <form>
+
+          <div class="field name-box">
+            <label for="name" data-t="name"></label>
+            <input type="text" id="name" data-t-ph="ph-name" required/>
+          </div>
+
+          <div class="field email-box">
+            <label for="email" data-t="email">E-mail</label>
+            <input type="email" id="email" data-t-ph="ph-email" required/>
+          </div>
+
+          <div class="field msg-box">
+            <label for="msg" data-t="text"></label>
+            <textarea id="msg" rows="4" data-t-ph="ph-text" required ></textarea>
+          </div>
+
+          <input class="button" type="submit" data-t-btn="send"/>
+
+        </form>
+      </section>
+    </div>
+
+  </div>
+
+{% endblock %}

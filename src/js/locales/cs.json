@@ -1,0 +1,10 @@
+{
+  "title": "Formulář pro zpětnou vazbu",
+  "name": "Jméno",
+  "email": "E-mail",
+  "text": "Text",
+  "send": "Odeslat",
+  "ph-name": "Jak se jmenujete?",
+  "ph-email": "Vaše e-mailová adresa",
+  "ph-text": "Popište prosím Vaši otázku jasně a podrobně."
+}

@@ -1,0 +1,10 @@
+{
+  "title": "Feedback form",
+  "name": "Name",
+  "email": "E-mail",
+  "text": "Text",
+  "send": "Send",
+  "ph-name": "What is your name?",
+  "ph-email": "Your e-mail address",
+  "ph-text": "State your question clearly and in detail."
+}
